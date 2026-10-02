@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Dray-Ashcroft/Dray-Ashcroft/main/assets/draven-banner.png"
+    src="./assets/draven-banner.png"
     alt="Draven Ashcroft"
     width="100%"
   />
